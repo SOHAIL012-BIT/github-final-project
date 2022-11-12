@@ -5,7 +5,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Sohail012-bit
+   # SOHAIL012-BIT
 
    # Input:
    # p, principal amount
